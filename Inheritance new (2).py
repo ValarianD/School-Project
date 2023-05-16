@@ -68,7 +68,7 @@ new_truck.displayOption()
 
 prompt = input("Press enter to exit.")
 
-# Professor Voelcker's algorithim was used in this program. 
+# Professor Voelcker's algorithim/code was used in this program. 
   
     
     
